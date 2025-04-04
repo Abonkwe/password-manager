@@ -131,3 +131,4 @@ dmypy.json
 # End of https://www.gitignore.io/api/python
 
 # Generated using ignr.py - github.com/Antrikshy/ignr.py
+data.json
